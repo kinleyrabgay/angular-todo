@@ -1,0 +1,11 @@
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; 
+  }
+/*   
+  .container {
+    width: 600px; 
+    max-width: 90%;
+  } */
